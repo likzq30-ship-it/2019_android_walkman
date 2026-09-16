@@ -24,3 +24,8 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+# Sensitive firmware material
+fw_update_keys.txt
+*.pem
+*.key
